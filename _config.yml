@@ -1,5 +1,41 @@
-title: Ankit Soni
+# _config.yml
+
+# Site settings
+title: Ankit Soni's Portfolio
 logo: IMG_20240111_145814.jpg
-description: Engineer
-show_downloads: True
+description: Data Scientist | Machine Learning Enthusiast
+
+# GitHub repository information
+repository:
+  name: Ank-its/Portfolio
+  branch: main
+
+# Theme settings
 theme: jekyll-theme-minimal
+
+# Navigation links
+navbar_links:
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+  - text: Projects
+    url: /projects
+
+# Social media links
+social_links:
+  - title: LinkedIn
+    icon: linkedin
+    url: https://linkedin.com/in/ankit-soni-bb7404230
+  - title: GitHub
+    icon: github
+    url: https://github.com/Ank-its
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
