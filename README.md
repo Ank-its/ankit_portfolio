@@ -5,42 +5,42 @@ Welcome to my data science portfolio! Here, you'll find details about the projec
 ## Projects
 
 ### 1. Sentimental Analysis using NLP
-![Sentiment Analysis Project](SaNLP.png)
+![Sentiment Analysis Project](images/SaNLP.png)
 
 Conducted sentimental analysis of the stock market using Python. Utilized NLP techniques to analyze and classify news articles and social media sentiment related to stocks. Generated insights to inform investment decisions.
 
 GitHub Repository: [Sentiment Analysis Project](https://github.com/Ank-its/Sentimental-analysis-of-stock-market)
 
 ### 2. Holiday Classification
-![Holiday Classification Project](Hc.jpg)
+![Holiday Classification Project](images/Hc.jpg)
 
 Developed a holiday classification system using Python. Employed machine learning algorithms to classify dates as holidays or non-holidays. Improved accuracy by incorporating various data sources and features.
 
 GitHub Repository: [Holiday Classification Project](https://github.com/Ank-its/Holiday-Classification-)
 
 ### 3. Time Series Forescating of stock market
-![Stock Market Analysis Project](Tsf.jpg)
+![Stock Market Analysis Project](images/Tsf.jpg)
 
 Conducted comprehensive stock market analysis using Python. Collected and processed historical stock price data. Implemented various financial indicators and conducted trend analysis.
 
 GitHub Repository: [Stock Market Analysis Project](https://github.com/Ank-its/Stock-Market-Analysis-using-Python)
 
 ### 4. Movie Recommendation System
-![Movie Recommendation System Project](Mrs.png)
+![Movie Recommendation System Project](images/Mrs.png)
 
 Developed a personalized movie recommendation system using Python, R, and machine learning techniques. Implemented collaborative filtering and content-based filtering algorithms to enhance recommendation accuracy.
 
 GitHub Repository: [Movie Recommendation System Project](https://github.com/Ank-its/Movie-Recommendation-System)
 
 ### 5. Data Visualization in Seaborn
-![Data Visualization project](Dv.jpg)
+![Data Visualization project](images/Dv.jpg)
 
 Created interactive and informative visualizations using Seaborn library. Explored various datasets to showcase the power of data visualization in extracting insights.
 
 GitHub Repository: [Data Visualization in Seaborn](https://github.com/Ank-its/Data-Visualization-in-Seaborn)
 
 ### 6. CRUD API
-![CRUD API Project](Crud.png)
+![CRUD API Project](images/Crud.png)
 
 Developed a full-stack CRUD API application using Docker, Flask, React, Python, and PostgreSQL. Implemented Create, Read, Update, Delete operations with a scalable and containerized architecture.
 
