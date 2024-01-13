@@ -4,7 +4,7 @@ Welcome to my data science portfolio! Here, you'll find details about the projec
 
 ## Projects
 
-### 1. Sentimental Analysis of Stock Market
+### 1. Sentimental Analysis using NLP
 ![Sentiment Analysis Project](SaNLP.png)
 
 Conducted sentimental analysis of the stock market using Python. Utilized NLP techniques to analyze and classify news articles and social media sentiment related to stocks. Generated insights to inform investment decisions.
@@ -18,7 +18,7 @@ Developed a holiday classification system using Python. Employed machine learnin
 
 GitHub Repository: [Holiday Classification Project](https://github.com/Ank-its/Holiday-Classification-)
 
-### 3. Stock Market Analysis using Python
+### 3. Time Series Forescating of stock market
 ![Stock Market Analysis Project](Tsf.jpg)
 
 Conducted comprehensive stock market analysis using Python. Collected and processed historical stock price data. Implemented various financial indicators and conducted trend analysis.
@@ -31,6 +31,12 @@ GitHub Repository: [Stock Market Analysis Project](https://github.com/Ank-its/St
 Developed a personalized movie recommendation system using Python, R, and machine learning techniques. Implemented collaborative filtering and content-based filtering algorithms to enhance recommendation accuracy.
 
 GitHub Repository: [Movie Recommendation System Project](https://github.com/Ank-its/Movie-Recommendation-System)
+
+### 5. Data Visualization using Seaborn
+
+
+### 6. CRUD_Api
+
 
 ## Skills & Abilities
 
