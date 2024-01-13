@@ -1,4 +1,4 @@
-# Ankit Soni's Data Science Portfolio
+# Data Science Portfolio
 
 Welcome to my data science portfolio! Here, you'll find details about the projects I've worked on, showcasing my skills in machine learning, data analysis, and more.
 
