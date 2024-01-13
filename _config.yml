@@ -39,3 +39,6 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+
+github:
+  is_project_page: false
