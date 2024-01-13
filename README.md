@@ -26,17 +26,25 @@ Conducted comprehensive stock market analysis using Python. Collected and proces
 GitHub Repository: [Stock Market Analysis Project](https://github.com/Ank-its/Stock-Market-Analysis-using-Python)
 
 ### 4. Movie Recommendation System
-![Movie Recommendation System Project](images/movie_recommendation_system.jpg)
+![Movie Recommendation System Project](Mrs.png)
 
 Developed a personalized movie recommendation system using Python, R, and machine learning techniques. Implemented collaborative filtering and content-based filtering algorithms to enhance recommendation accuracy.
 
 GitHub Repository: [Movie Recommendation System Project](https://github.com/Ank-its/Movie-Recommendation-System)
 
-### 5. Data Visualization using Seaborn
+### 5. Data Visualization in Seaborn
+![Data Visualization project](Dv.jpg)
 
+Created interactive and informative visualizations using Seaborn library. Explored various datasets to showcase the power of data visualization in extracting insights.
 
-### 6. CRUD_Api
+GitHub Repository: [Data Visualization in Seaborn](https://github.com/Ank-its/Data-Visualization-in-Seaborn)
 
+### 6. CRUD API
+![CRUD API Project](Crud.png)
+
+Developed a full-stack CRUD API application using Docker, Flask, React, Python, and PostgreSQL. Implemented Create, Read, Update, Delete operations with a scalable and containerized architecture.
+
+GitHub Repository: [CRUD API](https://github.com/Ank-its/Crud_API)
 
 ## Skills & Abilities
 
@@ -48,5 +56,10 @@ GitHub Repository: [Movie Recommendation System Project](https://github.com/Ank-
 - Data Modeling
 - Unstructured Data
 - Analytical and Business Insights
+- Docker, PostgreSQL
 
-Feel free to explore each project for more details!
+## Contact
+
+- Email: ankitsoni6937@gmail.com
+- LinkedIn: [linkedin.com/in/ankit-soni-bb7404230](https://www.linkedin.com/in/ankit-soni-bb7404230)
+- GitHub: [github.com/Ank-its](https://github.com/Ank-its)
